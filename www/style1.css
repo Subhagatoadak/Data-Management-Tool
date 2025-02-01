@@ -1,0 +1,66 @@
+.pull-left.info {
+	background-color: transparent;
+}
+#home {
+   
+    color: white;
+}
+#logout2{
+	color:white;
+	
+}
+.submit{
+	margin-top: 19%;
+	margin-right: 30%;
+
+}
+#mytable_head{
+	margin-top:-14%;
+}
+#mytable1_head{
+	margin-top:-14%;
+}
+#mytable2_head{
+	margin-top:-14%;
+}
+#mytable3_head{
+	margin-top:-14%;
+}
+#mytable4_head{
+	margin-top:-14%;
+}
+
+.table.shiny-table{
+	border-style: solid;
+	background-color: lightgray;
+}
+.skin-blue .main-header .logo {
+          background-color: white; /* backgorund color of the logo header part */
+          color: black; /* title text color */
+          height: 50px;
+
+        }
+.skin-blue .main-header .logo:hover {
+          background-color: white; /* backgorund color of the logo header part on mouse hover */
+         
+        }
+.navbar .navbar-static-top {
+	background-color: white;
+}
+#login_box {
+	margin-left:25%;
+	margin-top:10%;
+	width:100%;
+	
+}
+#login_id {
+
+  border-style: solid;
+  border-color:gray;
+   border-radius: 5px;
+   background-color:white;
+}
+
+#logout {
+width:20%;
+}
